@@ -106,6 +106,7 @@ poisson_column <- c(0,1,2,3,1,2,3,9,6,10,11)
 getMLE("poisson",poisson_column)
 ```
 
+We make sure all our tests provide 100% coverage. 
 
 ### Similar Packages
 
