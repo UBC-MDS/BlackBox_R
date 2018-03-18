@@ -46,7 +46,7 @@ getMLE(distribution,column)
 
 *Args*:
 
-distribution: type of distribution of the data. for example (bernoulli, bernoulli). Support for 2 as of now.
+distribution: type of distribution of the data. for example (bernoulli, poisson). Support for 2 as of now.
 
 column: the column is a vector of numeric data over which we perform the maximum likelihood
 
